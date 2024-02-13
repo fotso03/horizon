@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mys",
+				"mysql_connect()"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"P",
+				"pass"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"my",
+				"mysql_query()"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"i",
+				"!important"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"se",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"_",
+				"$_POST\tPOST['…']"
+			],
+			[
+				"MY",
+				"mysql_query()"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"a",
+				"fantasy"
+			],
+			[
+				"r",
+				"serif"
+			],
+			[
+				"n",
+				"inherit"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bl",
+				"blue"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"ty",
+				"style"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"re",
+				"href"
+			],
+			[
+				"d",
+				"text-decoration\tproperty"
+			],
+			[
+				"cent",
+				"justify-content\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "connexion.php",
+			"file_size": 188,
+			"file_write_time": 133500338223827063,
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"cut",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAC2AAAAPD9waHAKICAvL2Nvbm5leGlvbiDDoCBsYSBiYXNlIGRlIGRvbm7DqWVzCiAgJGNvbiA9IG15c3FsaV9jb25uZWN0KCJsb2NhbGhvc3QiLCJyb290IiwiIiwiZ2VzdGlvbiIpOwogIGlmKCEkY29uKXsKICAgICBlY2hvICJWb3VzIG4nw6p0ZXMgcGFzIGNvbm5lY3TDqSDDoCBsYSBiYXNlIGRlIGRvbm7DqWUiOwogIH0KPz4",
+					"AQAAAAAAAAABAAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "ajouter.php",
+			"settings":
+			{
+				"buffer_size": 1999,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/gestion_centre/ajouter.php",
+		"/C/xampp/htdocs/PROJET/css/style1.css",
+		"/C/xampp/htdocs/PROJET/src/pages/ajouter.php",
+		"/C/xampp/htdocs/PROJET/src/pages/indexadmin.php",
+		"/C/xampp/htdocs/PROJET/src/pages/modif.php",
+		"/C/xampp/htdocs/PROJET/src/pages/afficher.php",
+		"/C/xampp/htdocs/PROJET/src/pages/user.php",
+		"/C/xampp/htdocs/PROJET/p/modifier.php",
+		"/C/xampp/htdocs/PROJET/p/index.php",
+		"/C/xampp/htdocs/PROJET/p/connexion.php",
+		"/C/xampp/htdocs/PROJET/p/ajouter.php",
+		"/C/xampp/htdocs/PROJET/p/style.css",
+		"/C/xampp/htdocs/PROJET/p/supprimer.php",
+		"/C/xampp/htdocs/PROJET/css/style.css",
+		"/C/xampp/htdocs/PROJET/src/pages/admin.php",
+		"/C/xampp/htdocs/PROJET/src/pages/connexion.php",
+		"/C/wamp64/www/PROJET/src/pages/ajouter.php",
+		"/C/wamp64/www/PROJET/src/pages/indexadmin.php",
+		"/C/wamp64/www/PROJET/src/pages/afficher.php",
+		"/C/wamp64/www/PROJET/src/pages/admin.php",
+		"/C/wamp64/www/PROJET/index.php",
+		"/C/wamp64/www/PROJET/css/style.css",
+		"/C/wamp64/www/PROJET/css/style1.css",
+		"/C/Users/jouvence computer/Desktop/projet TP/src/pages/admin.php",
+		"/C/Users/jouvence computer/Desktop/projet TP/src/pages/user.php",
+		"/C/Users/jouvence computer/Desktop/projet TP/index.html",
+		"/C/Users/jouvence computer/king/src/css/style.css",
+		"/C/Users/jouvence computer/king/src/css/test3.html",
+		"/C/Users/jouvence computer/king/src/pages/prono.php",
+		"/C/Users/jouvence computer/Desktop/app/nitre.html",
+		"/C/Users/jouvence computer/Downloads/KING WINNER (12_13_2023 11_28_54 PM).html",
+		"/C/Users/jouvence computer/Documents/dev app/css/style.css",
+		"/C/Users/jouvence computer/Documents/dev app/pronos/dailysure/result.php",
+		"/C/Users/jouvence computer/Documents/dev app/app.php",
+		"/C/Users/jouvence computer/quasar-project/src/dh.html",
+		"/C/Users/jouvence computer/Documents/dev app/hdhh.html",
+		"/C/Users/jouvence computer/Downloads/Kingbet - Expert en paris sportifs (12_14_2023 11_03_41 AM).html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "connexion.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ajouter.php",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 205.142857143,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "connexion.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
